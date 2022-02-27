@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoankargy
 - 👀 I’m interested in people behaviour, food, and data science
 - 🌱 I’m currently learning data science for food and health
-- 💞️ I’m looking forward to offer you healthy food choices on your favorite food delivery services
+- 💞️ I’m looking forward to offer you healthy food choices on your favorite food delivery service
 - 📫 You can reach me on yoankargy@gmail.com
 
 <!---
